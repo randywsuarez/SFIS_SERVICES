@@ -1,0 +1,52 @@
+_id: req_3c13b01b15f3403fa48677111978f5ca
+type: Request
+parentId: wrk_64b42145d2954d26b56a5c7d6bf2ca70
+modified: 1687982139722
+created: 1687981909720
+url: https://pro-psurf-app.glb.inc.hp.com/partsurferapi/SerialNumber/GetSerialNumber/5CD31579Y5/ProductNumber/4U8D2AV/country/US/usertype/EXT
+name: Solo Prod Number AND serial
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+  - name: Accept-Encoding
+    value: gzip, deflate, br
+  - name: Accept-Language
+    value: en-US,en;q=0.9,es;q=0.8
+  - name: Authorization
+    value: Basic MjAyMzEzNy1wYXJ0c3VyZmVyOlBTVVJGQCNQUk9E
+  - name: Connection
+    value: keep-alive
+  - name: Host
+    value: pro-psurf-app.glb.inc.hp.com
+  - name: Origin
+    value: https://partsurfer.hp.com
+  - name: Referer
+    value: https://partsurfer.hp.com/
+  - name: Sec-Fetch-Dest
+    value: empty
+  - name: Sec-Fetch-Mode
+    value: cors
+  - name: Sec-Fetch-Site
+    value: same-site
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/109.0.0.0 Safari/537.36
+  - name: sec-ch-ua
+    value: '"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+authentication: {}
+metaSortKey: -1000000000
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
