@@ -1,9 +1,9 @@
 _id: req_045b3ce5be7b43a1b92fe50c8289dcfc
 type: Request
 parentId: wrk_64b42145d2954d26b56a5c7d6bf2ca70
-modified: 1687978620602
+modified: 1692106441007
 created: 1687978568468
-url: https://pcb.inc.hp.com/api/catalogs/us-en/nodes/2100933033/contents/T?status[]=O&status[]=L&hierParadigm=F
+url: https://pcb.inc.hp.com/api/catalogs/us-en/nodes/34900218/contents/T?status[]=O&status[]=L&hierParadigm=F
 name: TechSpec
 description: ""
 method: GET

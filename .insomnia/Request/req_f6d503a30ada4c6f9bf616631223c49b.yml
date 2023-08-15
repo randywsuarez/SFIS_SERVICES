@@ -1,9 +1,9 @@
 _id: req_f6d503a30ada4c6f9bf616631223c49b
 type: Request
 parentId: wrk_64b42145d2954d26b56a5c7d6bf2ca70
-modified: 1688130870560
+modified: 1691597073374
 created: 1687978257882
-url: https://pcb.inc.hp.com/api/catalogs/us-en/nodes/search/autocomplete?query=50V33UA&exactSearch=false&status[]=O&status[]=L
+url: https://pcb.inc.hp.com/api/catalogs/us-en/nodes/search/autocomplete?query=15-bs168cl&exactSearch=false&status[]=O&status[]=L
 name: OID
 description: ""
 method: GET

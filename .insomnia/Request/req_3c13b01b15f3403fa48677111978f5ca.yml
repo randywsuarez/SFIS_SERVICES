@@ -1,9 +1,9 @@
 _id: req_3c13b01b15f3403fa48677111978f5ca
 type: Request
 parentId: wrk_64b42145d2954d26b56a5c7d6bf2ca70
-modified: 1687982139722
+modified: 1692109020413
 created: 1687981909720
-url: https://pro-psurf-app.glb.inc.hp.com/partsurferapi/SerialNumber/GetSerialNumber/5CD31579Y5/ProductNumber/4U8D2AV/country/US/usertype/EXT
+url: https://pro-psurf-app.glb.inc.hp.com/partsurferapi/SerialNumber/GetSerialNumber/5CG2323D6G/ProductNumber/6K7X7UA/country/US/usertype/EXT
 name: Solo Prod Number AND serial
 description: ""
 method: GET
